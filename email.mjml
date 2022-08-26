@@ -1,0 +1,94 @@
+<mjml>
+  <mj-body background-color="#ededed">
+    <mj-section background-color="#ffffff" padding-top="48px">
+      <mj-column>
+        <mj-image
+          width="80px"
+          src="https://lyo.s3.ap-southeast-1.amazonaws.com/gameFi/assets/images/components/logo.png"
+        />
+        <mj-text
+          font-style="normal"
+          font-weight="bold"
+          font-size="14px"
+          color="#333333"
+          font-family="PingFangSC-Medium"
+          line-height="20px"
+        >
+          Hi, Your email verification code is
+        </mj-text>
+        <mj-text
+          font-style="normal"
+          font-weight="bold"
+          font-size="36px"
+          color="#ff901e"
+          font-family="PingFangSC-Medium"
+          line-height="20px"
+        >
+          111111
+        </mj-text>
+        <mj-text
+          font-style="normal"
+          font-weight="bold"
+          font-size="14px"
+          color="#333333"
+          font-family="PingFangSC-Medium"
+          line-height="20px"
+        >
+          please complete the verification in 10 minutes.
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="#e5e5e5"
+        />
+        <mj-text
+          font-style="normal"
+          font-size="12px"
+          color="#333333"
+          font-family="PingFangSC-Medium"
+          line-height="12px"
+          height="0px"
+        >
+          Metamagus Team
+        </mj-text>
+        <mj-text
+          font-style="normal"
+          font-size="12px"
+          color="#333333"
+          font-family="PingFangSC-Medium"
+          line-height="12px"
+          height="0px"
+        >
+          This is an automated message, please do not reply.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section
+      background-color="white"
+      padding-top="152px"
+      padding-bottom="8px"
+    >
+      <mj-column background-color="#ffffff">
+        <mj-social inner-padding="8px" padding-bottom="0" icon-size="20px">
+          <mj-social-element
+            src="https://lyo.s3.ap-southeast-1.amazonaws.com/gameFi/assets/images/components/mail-twitter.png"
+            href="https://twitter.com/MetamagusGlobal"
+          />
+          <mj-social-element
+            src="https://lyo.s3.ap-southeast-1.amazonaws.com/gameFi/assets/images/components/mail-medium.png"
+            href="https://medium.com/@metamagus2021"
+          />
+        </mj-social>
+        <mj-text
+          font-style="normal"
+          font-size="12px"
+          color="#333333"
+          font-family="PingFangSC-Medium"
+          align="center"
+        >
+          © METAMAGUS 2022 | All Rights Reserved
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
